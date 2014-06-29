@@ -70,7 +70,7 @@ If you have already trained cognitive thoughts for the blissymbol "yes" and save
 
 If you have already trained cognitive thoughts for the blissymbol "no" and saved them to the state "drop" in EPOC Control Panel, the prototype should activate the "-" Blissymbol whenever you think about it.
 
-![Thinking about the blissymbol for yes](http://turbolego.com/EEGBliss_github3.png)
+![Thinking about the blissymbol for yes](http://turbolego.com/EEGBliss_github4.png)
 
 To use the prototype with EmoComposer, you need to start the EmoComposer first, and then run EGGBliss_prototype.py.
 
