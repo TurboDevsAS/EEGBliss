@@ -34,7 +34,7 @@ Select the “Path” variable under “system variables”, then click the “E
 
 For example:
 
-;C:/Program Files (x86)/Emotiv Research Edition SDK v2.0.0.20/dll
+```;C:/Program Files (x86)/Emotiv Research Edition SDK v2.0.0.20/dll```
 
 ![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github2.png)
 
