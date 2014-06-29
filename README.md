@@ -14,7 +14,7 @@ Dependencies
 Installation
 ============
 
-<coming soon>
+Coming soon
 
 Authors
 =======
