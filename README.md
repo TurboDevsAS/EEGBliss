@@ -3,7 +3,7 @@ EEGBliss
 
 EEGBliss: Open source API for controlling computers with Blissymbolics and EEG (Python + Kivy)
 
-Current version: 0.0.1 Alpha
+Current version: 0.0.1 Alpha for Windows
 
 
 Dependencies
@@ -27,6 +27,18 @@ And place it in the /dll/32 bit folder of your Emotiv SDK installation.
 Example:
 
 ![path to /dll/32 bit folder](http://turbolego.com/EEGBliss_github1.png)
+
+Next, add the dll folder to your Environmental Variables by right-clicking “My computer”, select “properties”, then “advanced” and then “Enviroment variables”.
+
+Select the “Path” variable under “system variables”, then click the “Edit…” button and add the path to your dll folder in the Emotiv SDK.
+
+For example:
+
+;C:/Program Files (x86)/Emotiv Research Edition SDK v2.0.0.20/dll
+
+![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github2.png)
+
+
 
 Authors
 =======
