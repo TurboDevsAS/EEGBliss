@@ -72,6 +72,16 @@ If you have already trained cognitive thoughts for the blissymbol "no" and saved
 
 ![Thinking about the blissymbol for yes](http://turbolego.com/EEGBliss_github3.png)
 
+To use the prototype with EmoComposer, you need to start the EmoComposer first, and then run EGGBliss_prototype.py.
+
+To test the prototype, you can either send the cognitive thought for "lift" that we have used for the blissymbol "yes" ( + ):
+
+![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github5.png)
+
+Or you can send the cognitive thought for "drop" that we have used for the blissymbol "no" ( - ):
+
+![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github6.png)
+
 
 Authors
 =======
