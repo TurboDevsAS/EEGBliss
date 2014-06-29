@@ -43,13 +43,13 @@ EmoComposer uses the port 1726 while EPOC Control Panel uses port 3008.
 
 To use EmoComposer, comment line 39 like so:
 
-```EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 1726 )
-#EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 3008 )```
+```EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 1726 )```
+```#EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 3008 )```
 
 To use EPOC control panel, comment line 39 like so:
 
-```EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 1726 )
-#EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 3008 )```
+```EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 1726 )```
+```#EmotivEngine.EE_EngineRemoteConnect ( '127.0.0.1', 3008 )```
 
 That's it!
 
