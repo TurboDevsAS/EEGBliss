@@ -11,7 +11,7 @@ Dependencies
 
 * [Emotiv SDK](http://emotiv.com/)
 * [Python 2.7.7 32bit](https://www.python.org/)
-* [Kivy 1.8.0 32bit](https://www.python.org/)
+* [Kivy 1.8.0 32bit](https://www.kivy.org/)
 * [PyEpoc](https://github.com/dplass/PyEpoc)
 
 Installation
