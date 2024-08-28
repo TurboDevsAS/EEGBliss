@@ -26,7 +26,8 @@ Place the files "EGGBliss_prototype.py", "pluss.png" and "minus.png" in this fol
 
 Example:
 
-![path to /dll/32 bit folder](http://turbolego.com/EEGBliss_github1.png)
+![path to /dll/32 bit folder](https://github.com/user-attachments/assets/eda66503-4fb9-4a41-9c53-6d70bc68cca3)
+
 
 Next, add the dll folder to your Environmental Variables by right-clicking “My computer”, select “properties”, then “advanced” and then “Enviroment variables”.
 
@@ -36,7 +37,8 @@ For example:
 
 ```;C:/Program Files (x86)/Emotiv Research Edition SDK v2.0.0.20/dll```
 
-![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github2.png)
+![adding dll folder to enviromental variables](https://github.com/user-attachments/assets/9f1c4e7e-713e-4767-85c6-0e4a2ca5bab9)
+
 
 Next, you need to do one edit to the prototype sourcecode to select if you want to use the EmoComposer program or the EPOC Control Panel with the EPOC EEG headset.
 EmoComposer uses the port 1726 while EPOC Control Panel uses port 3008.
@@ -66,21 +68,23 @@ To use the prototype with EPOC Control Panel, you need to start the control pane
 
 If you have already trained cognitive thoughts for the blissymbol "yes" and saved them to the state "lift" in EPOC Control Panel, the prototype should activate the "+" Blissymbol whenever you think about it.
 
-![Thinking about the blissymbol for yes](http://turbolego.com/EEGBliss_github3.png)
+![Thinking about the blissymbol for yes](https://github.com/user-attachments/assets/54ed6e66-311c-41c5-aae4-0b7355e91bb8)
 
 If you have already trained cognitive thoughts for the blissymbol "no" and saved them to the state "drop" in EPOC Control Panel, the prototype should activate the "-" Blissymbol whenever you think about it.
 
-![Thinking about the blissymbol for yes](http://turbolego.com/EEGBliss_github4.png)
+![Thinking about the blissymbol for no](https://github.com/user-attachments/assets/4e3777df-0fff-4a4b-a86b-c767fb1a221a)
 
 To use the prototype with EmoComposer, you need to start the EmoComposer first, and then run EGGBliss_prototype.py.
 
 To test the prototype, you can either send the cognitive thought for "lift" that we have used for the blissymbol "yes" ( + ):
 
-![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github5.png)
+![Thinking about the blissymbol for yes](https://github.com/user-attachments/assets/1000d7da-5b58-4a45-a53d-82b564ac7238)
+
 
 Or you can send the cognitive thought for "drop" that we have used for the blissymbol "no" ( - ):
 
-![adding dll folder to enviromental variables](http://turbolego.com/EEGBliss_github6.png)
+![Thinking about the blissymbol for no](https://github.com/user-attachments/assets/d93cd43a-e862-46ca-b51f-b33a15f1d1ac)
+
 
 
 Authors
@@ -89,5 +93,5 @@ TurboDevs AS and Larsen Development.
 
 Tobias Andersen, Sigve Larsen, Nine Bauge, Jan Ole Lysen Andersen, Emilie Thomassen, Raymond Holthe.
 
-[![DOI](https://zenodo.org/badge/4893/TurboDevsAS/EEGBliss.png)](http://dx.doi.org/10.5281/zenodo.10700)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10700.svg)](http://dx.doi.org/10.5281/zenodo.10700)
 
